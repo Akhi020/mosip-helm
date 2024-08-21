@@ -6,7 +6,7 @@ Helm chart for installing sample Print service module. This is a reference imple
 
 ```console
 $ helm repo add mosip https://mosip.github.io
-$ helm install my-release mosip/print-service
+$ helm install my-release mosip/curp-manager
 ```
 ## Prerequisites
 
