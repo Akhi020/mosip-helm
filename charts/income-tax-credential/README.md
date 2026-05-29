@@ -8,4 +8,4 @@ helm lint income-tax-credential
 
 cd ..
 
-helm install income-tax-credential ./income-tax-credential -n income-tax --create-namespace
+helm install incometax-credential-service ./income-tax-credential -n incometax-credential --create-namespace
